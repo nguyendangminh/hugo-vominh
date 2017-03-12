@@ -1,0 +1,26 @@
+name = "Vominh"
+license = "MIT"
+description = "A minimalistic and responsive theme for bloggers."
+homepage = "http://github.com/nguyendangminh/hugo-vominh"
+
+[author]
+  name = "minhnd"
+  homepage = "http://minhnd.com"
+
+[[original]]
+  # Forked version of Hugo Cactus Theme
+  name = "Digital Craftman"
+  homepage = "https://github.com/digitalcraftsman/hugo-cactus-theme"
+  repo = "https://github.com/digitalcraftsman/hugo-cactus-theme"
+
+[[original]]
+  # Ported the stardard theme of the Cactus for Mac static site generator to Jekyll
+  name = "Nick Balestra"
+  homepage = "//nick.balestra.ch/"
+  repo = "//github.com/nickbalestra/kactus"
+
+[[original]]
+  # Original creators of the stardard theme for the Cactus for Mac static site generator
+  name = "Cactus for Mac authors"
+  homepage = "//cactusformac.com"
+  repo = "github.com/koenbok/Cactus"
